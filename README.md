@@ -18,9 +18,3 @@
 
 
 
-
-dre
-
-
-
-software
