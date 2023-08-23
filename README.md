@@ -1,6 +1,6 @@
 #### Hi 👋, I'm John French
 
-##### **Senior React | React Native | Angular | Node | Next.js Full Stack Developer**
+##### **Senior React | Angular | Node | C#/ASP.NET Core | Next.js Full Stack Developer**
 
 [![](https://visitcount.itsvg.in/api?id=johnfrench3&icon=0&color=9)](https://visitcount.itsvg.in)
 
