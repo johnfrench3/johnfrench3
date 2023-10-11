@@ -2,7 +2,7 @@
   Welcome to John French's profile!
   
 </h3>
-
+<p align="left">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Full-stack%20web%20and%20app%20developer;Experienced%20Software%20Development;10+%2B%20years%20of%20coding%20experience;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22"></a>
 
 [![](https://visitcount.itsvg.in/api?id=johnfrench3&icon=2&color=1)](https://visitcount.itsvg.in)
@@ -10,7 +10,7 @@
 
 ### 🔥 GitHub Stats:
 
-<p align="center">
+<p align="left">
   <a href="https://github.com/johnfrench3/github-readme-streak-stats">
     <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="johnfrench3's streak" src="https://github-readme-stats.vercel.app/api?username=johnfrench3&theme=radical&hide_border=false&include_all_commits=false&count_private"/><br/>
     <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="johnfrench3's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=johnfrench3&theme=radical&hide_border=false=vCenter=true"/>
