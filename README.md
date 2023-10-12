@@ -1,5 +1,5 @@
 <h3 align="left">
- Welcome to John French's profile!
+ Welcome to my profile! It's the cave we most fear to enter, that holds the treasure we seek...
   
 </h3>
 <p align="left">
