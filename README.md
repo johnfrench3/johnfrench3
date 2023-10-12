@@ -4,7 +4,7 @@
 </h3>
 
 <p align="left">
-<img src="https://readme-typing-svg.herokuapp.com/?lines=Full-stack%20web%20and%20application%20developer;10+%2B%20years%20of%20coding%20experience;Continuously%20advancing%20with%20emerging%20technologies&font=Fira%20Code&left=true&width=690&height=45&color=f75c7e&vleft=true&size=22"></a>
+<img src="https://readme-typing-svg.herokuapp.com/?lines=Senior%20web%20and%20application%20developer;10+%2B%20years%20of%20coding%20experience;Continuously%20advancing%20with%20emerging%20technologies&font=Fira%20Code&left=true&width=690&height=45&color=f75c7e&vleft=true&size=22"></a>
 
 [![](https://visitcount.itsvg.in/api?id=johnfrench3&icon=2&color=1)](https://visitcount.itsvg.in)
 
