@@ -16,7 +16,7 @@
 ![](https://github-readme-stats.vercel.app/api?username=johnfrench3&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=johnfrench3&theme=radical&hide_border=false)
 
-<h3 align="left">It's the cave we most fear to enter, that holds the treasure we seek...&color=eeee15</h3>
+<h3 align="left"&color=f75c7e>It's the cave we most fear to enter, that holds the treasure we seek...</h3>
 
 
 
