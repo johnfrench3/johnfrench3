@@ -1,6 +1,5 @@
 <h3 align="left">
  Welcome to John French's profile!
-  
 </h3>
 <h3 align="left">
  Welcome to John French's profile!
