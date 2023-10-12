@@ -1,11 +1,8 @@
 <h3 align="left">
- Welcome to John French's profile!
+ Welcome to my profile!
  
 </h3>
-<h3 align="left">
- It's the cave we most fear to enter, that holds the treasure we seek...
-  
-</h3>
+
 <p align="left">
 <img src="https://readme-typing-svg.herokuapp.com/?lines=Full-stack%20web%20and%20app%20developer;Experienced%20Software%20Developer;10+%2B%20years%20of%20coding%20experience;Always%20learning%20new%20things&font=Fira%20Code&left=true&width=440&height=45&color=f75c7e&vleft=true&size=22"></a>
 
